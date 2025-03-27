@@ -26,3 +26,5 @@ Nos pediran varias cosas como el **Nombre del Moodle, Nombre corto, Zona horaria
 
 
 ![f4](https://github.com/user-attachments/assets/1e0ccdfb-7483-45e8-9a7e-bdec12dd0974)
+
+**Hay que recordar que siempre que acabemos de editar algo darle al boton Guardar cambios.**
