@@ -13,6 +13,12 @@ El primer paso de la instalacion sera personalizarlo nos preguntara nuestro nomb
 ![f2](https://github.com/user-attachments/assets/2aa36438-0eb8-4500-ad20-a8e8f01a716c)
 
 
+
+
+
+
+
+
 ## Crear el curso
 
 
