@@ -39,5 +39,32 @@ Lo primero que se nos pide al entrar la moodle es cambiar nuestra contraseña en
  ![f5](https://github.com/user-attachments/assets/f1b46670-be0d-4dd5-acf5-335187dbc22f)
 
 
- Una vez hemos comprobado la zona horaria tenemos que cambiar la politica de las contraseñas para que se de como minimo 4 digitos en los cuales tienen que inculuir ***Majusculas, Minusculas y cifras***.
+ Una vez hemos comprobado la zona horaria tenemos que cambiar la politica de las contraseñas para que se de como minimo 4 digitos en los cuales tienen que inculuir ***Majusculas, Minusculas y cifras***. `Administració del lloc > Seguretat > Normatives del lloc.`
+
+
+
+ ## Creacion de cursos
+
+ Una vez ya he cambiado toda la configuracion como se nos pide creamos 2 cursos: Un curso **A** que este formado por 3 temas i otro curso que se llame **B** que este formado por 5 temas. `Cursos > Afegeix curs`
+
+
+
+
+ Una vez he credo los **2 cursos** entramos a uno y subimos un PDF y ahora tenemos completa libertat para usar el boton de `actiar edicion`
+
+
+ ## Creacion de usuarios
+
+ Tengo que crear un usuario manualmenmte que se llame **`Bob`** con el metodo de auteticacion manual. `Administració del lloc > Usuaris > Comptes > Afegeix un usuari`
+
+
+ Ahora hay que generar 10 alumnos 
+
+
+ 
+
+
+
+
+
 
