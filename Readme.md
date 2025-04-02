@@ -58,7 +58,21 @@ Lo primero que se nos pide al entrar la moodle es cambiar nuestra contraseña en
  Tengo que crear un usuario manualmenmte que se llame **`Bob`** con el metodo de auteticacion manual. `Administració del lloc > Usuaris > Comptes > Afegeix un usuari`
 
 
- Ahora hay que generar 10 alumnos 
+ Ahora hay que generar 10 alumnos automaticamente con un archivo **`CSV`**
+ ```console
+username,firstname,lastname,email,password
+blobesponja,Blob,Esponja,blobesponja@elpuig.xeill.net,Abc123!
+jsongoku,JSON,Goku,jsongoku@elpuig.xeill.net,Abc123!
+canceligretel,Cancel,Gretel,canceligretel@elpuig.xeill.net,Abc123!
+davidelgnome,David,Gnome,davidelgnome@elpuig.xeill.net,Abc123!
+ritahardware,Rita,Hardware,trritahardwarees@elpuig.xeill.net,Abc123!
+```
+
+## Usuarios
+
+Una vez tengo creado los usuarios los matriculo en los **dos** cursos.
+
+**a)** Haz que en el curso A no haya posibilidad de inscripción (es decir, que sólo se permita el acceso de visitante de forma que el curso sea totalmente público sin control de usuarios -ni alumnos ni profesores-). Por otra parte, haz que en el curso B se necesite registro manual de usuarios (es decir, que sea el administrador -tú- quien matricule a cada usuario en el curso, ya sea como profesor o como alumno). Todo esto lo puedes hacer desde `Administración del curso > Usuarios > Métodos de inscripción`. Si no sale algún método de inscripción disponible, debes activarlo en: `Administración de sitio > Conectores > Autenticación > Gestión de la autenticación`
 
 
  
