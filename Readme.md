@@ -141,7 +141,7 @@ Como siempre empezamos con la istalación que anteriormente ja he mostrado en ot
 ![32](https://github.com/user-attachments/assets/f955de7d-b40f-49b0-ac5f-c883e3bc9b8c)
 
 
-**a)** Haz que en el curso A no haya posibilidad de inscripción (es decir, que sólo se permita el acceso de visitante de forma que el curso sea totalmente público sin control de usuarios -ni alumnos ni profesores-).  Todo esto lo puedes hacer desde `Administración del curso > Usuarios > Métodos de inscripción`. Si no sale algún método de inscripción disponible, debes activarlo en: `Administración de sitio > Conectores > Autenticación > Gestión de la autenticación`.
+**2.** Haz que en el curso A no haya posibilidad de inscripción (es decir, que sólo se permita el acceso de visitante de forma que el curso sea totalmente público sin control de usuarios -ni alumnos ni profesores-).  Todo esto lo puedes hacer desde `Administración del curso > Usuarios > Métodos de inscripción`. Si no sale algún método de inscripción disponible, debes activarlo en: `Administración de sitio > Conectores > Autenticación > Gestión de la autenticación`.
 
 ![36](https://github.com/user-attachments/assets/f38c38f3-70b4-421b-aed2-0859739e8aa0)
 ![37](https://github.com/user-attachments/assets/a7081341-7d94-42a7-82a8-ce24235c3d9f)
@@ -153,17 +153,63 @@ Por otra parte, haz que en el curso B se necesite registro manual de usuarios (e
 
 Para hacer el **B** no hace falta hacer nada debido a que ya esta ese metodo de matriculacion por defecto.
 
-**b)** Assigna com a professor del curs B l'usuari "Bob" i com a alumnes a tots els que fas afegir des de l'arxiu CSV Tot això ho pots fer anant a `Administració del curs > Usuaris inscrits > Inscriure`.
+**3.** Asigna como profesor del curso B al usuario "Bob" y como alumnos a todos los que haces añadir desde el archivo CSV Todo esto puedes hacerlo yendo a `Administración del curso > Usuarios inscritos > Inscribir`.
+
 
 ![42](https://github.com/user-attachments/assets/2314c24a-25e0-4567-8a91-921fa5c55222)
 
- **c)** Comprova que efectivament, el contingut del curs A (afegit per l'administrador del sistema -és a dir, tu- estigui disponible públicament i que per accedir al curs B s'hagi d'iniciar sessió amb un usuari registrat (alumne o professor)
- 
+## Ajustes Moodle
 
 
+ **1.** Comprueba que efectivamente, el contenido del curso A (añadido por el administrador del sistema -es decir, tú- esté disponible públicamente y que para acceder al curso B deba iniciar sesión con un usuario registrado (alumno o profesor)
+
+**A**
 
 
+![44](https://github.com/user-attachments/assets/91918776-c251-4520-a371-5e460381f4ba)
+![45](https://github.com/user-attachments/assets/a7c8f5bf-8c58-42ab-85a6-ea25e9f30095)
 
+
+**B**
+
+
+ ![46](https://github.com/user-attachments/assets/a15e2263-df24-43e5-bf67-9c74285780b9)
+
+
+**2.** En este paso tengo que darle un toque diferente a mi Moodle cambiando el tema `Administració del lloc > Connectors > Instal·lar complement` y despues ir a `Administració del lloc > Aparença > Temes > Selector de temes`
+
+![47](https://github.com/user-attachments/assets/26f1fbf8-7451-4f71-a3fb-4fd6627b2740)
+![48](https://github.com/user-attachments/assets/614a8f29-195f-4229-bb27-bbbb2c9572b3)
+![49](https://github.com/user-attachments/assets/b0fdcfe0-54b2-499d-a6e9-55b28fbd9aa8)
+
+
+## Cursos
+
+**1.** Ahora llega el momento de asignar un professor a nuestro curso llamado **`A`** y en este caso como en el otro pondre de professor al usuario **`Bob`**
+
+
+![50](https://github.com/user-attachments/assets/871bc48f-75d2-44c2-8b12-c02003a8d4a8)
+
+
+## Entregas
+
+**1.** Ahora con `Bob` que es el prfessor de ambos cursos entramos al curso **A** y hacemos una actividad en la que hay que entregar un fichero tipo **`PDF`**.
+
+![51](https://github.com/user-attachments/assets/ffb0c2a2-998b-49e8-97fa-afb14e2bf3f2)
+![f18](https://github.com/user-attachments/assets/e78344c0-5365-49e7-8fbf-e1ed2b7a15a4)
+![52](https://github.com/user-attachments/assets/583726ed-c8cb-4454-b537-4f162b13436d)
+![54](https://github.com/user-attachments/assets/4ddfe105-0054-40ab-9b3f-db7268826f38)
+![55](https://github.com/user-attachments/assets/46d863ac-d04a-4128-a236-6917c0d99172)
+![56](https://github.com/user-attachments/assets/05d4612c-9d51-4dbf-ac6f-5ec932cd3d35)
+
+
+**2.** Con un usario cualquiera podemos acceder vamos al curso **A** y entregamos nuestra tarea.
+![58](https://github.com/user-attachments/assets/a2dc149e-13c9-4459-b096-395a5b08fb7e)
+![60](https://github.com/user-attachments/assets/0b8d8755-df33-471a-b2f6-9b392acd48a2)
+![61](https://github.com/user-attachments/assets/71b22f79-e169-4f8f-8448-e1890d952c58)
+![62](https://github.com/user-attachments/assets/82eb68b5-e5e7-4fd6-aba2-e2751e507250)
+![63](https://github.com/user-attachments/assets/5e41dbce-d506-40ea-9b7e-fc4404996e0f)
+![64](https://github.com/user-attachments/assets/93302666-ca47-4b57-9840-34e6137fde85)
 
 
 
