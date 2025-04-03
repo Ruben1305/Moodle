@@ -9,9 +9,6 @@ Como siempre empezamos con la istalación que anteriormente ja he mostrado en ot
 
 
 ![f1](https://github.com/user-attachments/assets/b5e40c1b-da01-41ff-8c45-06afe4f7141d)
-
-
-
 ![f2](https://github.com/user-attachments/assets/2aa36438-0eb8-4500-ad20-a8e8f01a716c)
 
 
@@ -25,11 +22,7 @@ Como siempre empezamos con la istalación que anteriormente ja he mostrado en ot
 
 
 ![f3](https://github.com/user-attachments/assets/60f7b8f3-ad24-4de7-9997-b8e71a4d0f1a)
-
-
 ![f22](https://github.com/user-attachments/assets/64180a06-305c-4613-90d5-9b995a2727f9)
-
-
 ![f4](https://github.com/user-attachments/assets/1e0ccdfb-7483-45e8-9a7e-bdec12dd0974)
 
 
@@ -203,13 +196,129 @@ Para hacer el **B** no hace falta hacer nada debido a que ya esta ese metodo de 
 ![56](https://github.com/user-attachments/assets/05d4612c-9d51-4dbf-ac6f-5ec932cd3d35)
 
 
-**2.** Con un usario cualquiera podemos acceder vamos al curso **A** y entregamos nuestra tarea.
+**2.** Con un usario cualquiera podemos acceder vamos al curso **A** y comprobamos que si que esta esa actividad.
+
 ![58](https://github.com/user-attachments/assets/a2dc149e-13c9-4459-b096-395a5b08fb7e)
 ![60](https://github.com/user-attachments/assets/0b8d8755-df33-471a-b2f6-9b392acd48a2)
 ![61](https://github.com/user-attachments/assets/71b22f79-e169-4f8f-8448-e1890d952c58)
+
+
+**3.** Ahora la entregamos la tarea.
+
 ![62](https://github.com/user-attachments/assets/82eb68b5-e5e7-4fd6-aba2-e2751e507250)
 ![63](https://github.com/user-attachments/assets/5e41dbce-d506-40ea-9b7e-fc4404996e0f)
 ![64](https://github.com/user-attachments/assets/93302666-ca47-4b57-9840-34e6137fde85)
+
+
+## Contenido
+
+**1.** En el curso A creamos una **`UF`** con **`2 NF`** dentro del curso.
+
+**Asi me ha quedado**
+
+![Captura de pantalla de 2025-03-21 13-48-51](https://github.com/user-attachments/assets/60d9ffc3-11d1-47e8-a9fd-4035f87abdd2)
+![Captura de pantalla de 2025-03-21 14-02-59](https://github.com/user-attachments/assets/a5d4eea4-c0cf-436e-b838-29dca62afa4e)
+![Captura de pantalla de 2025-03-21 14-09-15](https://github.com/user-attachments/assets/7cb6ea7d-aed3-46aa-a29e-5be3906764fc)
+![Captura de pantalla de 2025-03-21 14-09-38](https://github.com/user-attachments/assets/811b31d0-1f7b-4645-ad27-ae17bda99f17)
+![Captura de pantalla de 2025-03-21 14-23-07](https://github.com/user-attachments/assets/66104b4e-4c33-402b-be10-b158f61c84fd)
+
+
+**2** Ahora tengo crear actividades tanto evaluables como magistrales.
+
+### Evaluables
+
+![Captura de pantalla de 2025-03-21 14-14-00](https://github.com/user-attachments/assets/9e482aaa-dd83-4c73-8f3b-8b3cd2faffd5)
+![Captura de pantalla de 2025-03-21 14-14-58](https://github.com/user-attachments/assets/a4af22f4-4a36-4ef3-85f6-6b0263c3030c)
+![Captura de pantalla de 2025-03-21 14-18-50](https://github.com/user-attachments/assets/97fc54ad-d430-4239-abcb-bf11e2e27726)
+![Captura de pantalla de 2025-03-21 14-19-06](https://github.com/user-attachments/assets/1a2839b9-3d17-4c62-b04b-398febe1c404)
+![Captura de pantalla de 2025-03-21 14-19-09](https://github.com/user-attachments/assets/b9335e4a-0f69-423d-a123-8ac8db5fa5b4)
+
+### Magistrales
+![Captura de pantalla de 2025-03-21 14-20-28](https://github.com/user-attachments/assets/9d2300c3-19d4-4327-8b58-e57920f6cc00)
+![Captura de pantalla de 2025-03-21 14-22-16](https://github.com/user-attachments/assets/7159a4b9-93e5-4f0f-ac3d-7070776879dc)
+![Captura de pantalla de 2025-03-21 14-22-22](https://github.com/user-attachments/assets/a6d54a8f-8a81-409b-83eb-9e11ff3189e6)
+![Captura de pantalla de 2025-03-21 14-22-27](https://github.com/user-attachments/assets/b8635293-b1a5-4600-a6f3-25ef913869ad)
+![Captura de pantalla de 2025-03-21 14-23-07](https://github.com/user-attachments/assets/3e58d138-0735-4215-8120-8a14863f8c83)
+
+**3.** Ahora toca importar el curso **`A`** al curso **`B`**
+![73](https://github.com/user-attachments/assets/8a4b39a1-ca19-4454-bac4-e59aa77b42c2)
+![75](https://github.com/user-attachments/assets/891f2159-81b7-4bc7-a14e-bd1ab7839cce)
+![76](https://github.com/user-attachments/assets/2347dd8d-1666-40db-8dde-b4eb0d148949)
+![77](https://github.com/user-attachments/assets/3ca3488e-fff8-4ad9-b91e-c80e649589e8)
+![78](https://github.com/user-attachments/assets/4ed87b2c-0af6-4ec2-945e-416609575fc8)
+![79](https://github.com/user-attachments/assets/51e6decb-2131-41ab-8b21-19f5656ca1ae)
+![80](https://github.com/user-attachments/assets/9043f292-c590-4c45-a18d-bedb3c01352e)
+![81](https://github.com/user-attachments/assets/b6ee2aea-77ec-4ed0-9764-bc8279463393)
+
+
+## Calificacion
+
+**1.** Desde un usuario que el mio sera **`JSON goku`** completo todas las actividades del curso.
+
+![96](https://github.com/user-attachments/assets/60f9b41b-3044-4ee7-861c-65121f193ba6)
+
+**2.** Ahora con mi cuenta voy a `Administració del Lloc > Insígnies` y creo una isignia para asignar a la que llamare **`Matricula de honor`**
+![83](https://github.com/user-attachments/assets/7a935926-25f5-49a1-b3a8-31bd184ed1a0)
+![84](https://github.com/user-attachments/assets/35fc46ba-ec40-499f-91e0-db2fd848982e)
+![86](https://github.com/user-attachments/assets/6452c13a-6d32-4ffb-8899-ecc6b705332a)
+![87](https://github.com/user-attachments/assets/aff8bc1e-983a-4c57-a2a6-5586dba158d3)
+![89](https://github.com/user-attachments/assets/5bb5d168-7588-4836-b328-915e63e31314)
+
+**3.** Una vez creada la isignia se la pongo al usuairio que a completado todas las actividades **`JSON goku`**
+![89](https://github.com/user-attachments/assets/fb37a154-ea3f-4fc6-aac6-0cba7374f551)
+![97](https://github.com/user-attachments/assets/41ef1186-b0ee-42bd-b3a9-d56f48f6be4e)
+![98](https://github.com/user-attachments/assets/97751014-92b1-4b41-81e0-f71cd4db89d0)
+![100](https://github.com/user-attachments/assets/86b43dd9-8637-4305-9ec9-685625d0a583)
+![101](https://github.com/user-attachments/assets/48a9f789-49d1-4da6-8ec8-30dfbe4b90ee)
+
+
+## Cuestionario
+
+**1.** Crea un cuestionario
+
+
+
+**2.** Añade preguntas al banco de preguntas
+![104](https://github.com/user-attachments/assets/36f65bef-e4be-4ae2-b62f-32ef4b33f5f8)
+![105](https://github.com/user-attachments/assets/0d4463cb-fbc8-4558-b168-682135d99260)
+![106](https://github.com/user-attachments/assets/9a17d04c-bc0e-4709-bb9f-3bd4d784369b)
+![107](https://github.com/user-attachments/assets/01cc1bad-89b1-4873-a260-9479d60c8887)
+![108](https://github.com/user-attachments/assets/69b766a9-4bf9-48c1-ab61-1271bb11b231)
+![111](https://github.com/user-attachments/assets/ade8b609-c1f4-495c-bce2-069ba3e913fb)
+
+
+
+**3.** Añade las preguntas desde el banco de preguntas
+![112](https://github.com/user-attachments/assets/ff08318a-710f-4f53-951b-c384d1af0f06)
+![114](https://github.com/user-attachments/assets/65fc0a40-9958-40ea-ae26-72b88ff8bd9d)
+![115](https://github.com/user-attachments/assets/379d070f-e0f0-4089-ac06-4ce2a81f1a52)
+![116](https://github.com/user-attachments/assets/ccfd581a-bbcc-42ef-a6e6-f59e517f5d00)
+
+## Importar y exportar un curso
+
+**1.** Entra a la zona `Administració > Cursos > Còpies` y haz una còpia de seguridad de tu sitio.
+![128](https://github.com/user-attachments/assets/decdf360-64aa-475f-95b2-41f6dbc73836)
+![129](https://github.com/user-attachments/assets/9cd240ba-badd-4b60-98c7-f7712ca4bc07)
+![130](https://github.com/user-attachments/assets/6ed79d71-899e-4552-9514-a771e0a78ea9)
+![131](https://github.com/user-attachments/assets/b79a6690-ebc5-4aa9-b2a1-f04c013c0eee)
+![132](https://github.com/user-attachments/assets/392d78c5-d26c-48ca-b3ad-e7c7035f7a6f)
+![133](https://github.com/user-attachments/assets/73e022b0-64d9-4130-9431-65cf664c123f)
+![134](https://github.com/user-attachments/assets/fcf83479-0813-4199-b618-366c7ee52a64)
+
+
+## Seguridad
+
+**1.** Ahora tengo que bannear una IP cualquiera.
+
+![136](https://github.com/user-attachments/assets/86ba6a3e-984f-4420-9ad5-6b57419a4a71)
+![137](https://github.com/user-attachments/assets/fbc9e1c5-6c04-4226-9870-80d5ebc2ac0c)
+
+
+**2.** Cambiar la politica de seguridad que para eso es `Administracion del curso > Seguridad > Politicas de seguridad del sitio`.
+
+![138](https://github.com/user-attachments/assets/ffa3ac9f-2e9e-40b2-bfcc-31cff0f297db)
+![139](https://github.com/user-attachments/assets/05291467-553a-4b1f-bf89-4abdcea5c301)
+
 
 
 
